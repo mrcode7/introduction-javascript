@@ -8,3 +8,5 @@
 - Boolean
 - Array
 - Array of Object
+
+2. Average nilai UN
